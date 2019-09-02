@@ -15,7 +15,7 @@
 
       <v-flex mb-4>
         <h1 class="display-2 font-weight-bold mb-3">
-          Welcome 1 to Vuetify
+          Welcome to Vuetify
         </h1>
         <p class="subheading font-weight-regular">
           For help and collaboration with other Vuetify developers,
@@ -47,7 +47,7 @@
         xs12
         mb-5
       >
-        <h2 class="headline font-weight-bold mb-3">Important Links</h2>
+        <h2 class="headline font-weight-bold mb-3">Important 1 Links</h2>
 
         <v-layout justify-center>
           <a
